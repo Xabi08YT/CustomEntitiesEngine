@@ -5,5 +5,10 @@
 - Connaissance en programmation Java
 - Connaissance en modélisation 3D (facultatif)
 
+## Installation
+- Téléchargez le plugin sur votre ordinateur.
+- Copiez le fichier .jar dans le dossier "plugins" de votre serveur Minecraft PaperMC.
+- Redémarrez votre serveur Minecraft PaperMC.
+
 ## Crédits
 Ce projet a été créé par Fufly (Caraploof) Et Xabi08.
