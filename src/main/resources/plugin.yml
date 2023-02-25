@@ -1,0 +1,6 @@
+name: CustomEntitiesEngine
+version: '${project.version}'
+main: fuffly.xabi08yt.customentitiesengine.customentitiesengine.CustomEntitiesEngine
+api-version: 1.19
+authors: [ Xabi08YT, Fuffly ]
+description: Plugin Minecraft PaperMC pour charger des modèles 3D en entité
